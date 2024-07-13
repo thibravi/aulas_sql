@@ -1,0 +1,12 @@
+Aqui estão as tabelas disponíveis no banco de dados:
+
+tb_order_reviews
+tb_order_items
+tb_customers
+tb_sellers
+tb_product_category_name_translation
+tb_geolocation
+tb_order_payments
+tb_products
+tb_orders
+
